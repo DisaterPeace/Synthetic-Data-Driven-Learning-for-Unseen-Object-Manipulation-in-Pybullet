@@ -1,0 +1,3679 @@
+[
+  {
+    "relative_path": "random_urdfs/000/000.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.567852626512426e-17,
+          0.6303868889808655
+        ],
+        "settled_distance": 0.22961312532424927,
+        "extents": [
+          0.03131270408630371,
+          0.039669279009103775,
+          0.014847397804260254
+        ],
+        "max_xy_extent": 0.039669279009103775,
+        "min_xy_extent": 0.03131270408630371,
+        "height": 0.014847397804260254,
+        "aspect_ratio": 2.671800136566162
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.1096286956738085e-17,
+          0.6313287019729614
+        ],
+        "settled_distance": 0.22867131233215332,
+        "extents": [
+          0.03673684597015381,
+          0.04688412696123123,
+          0.01674330234527588
+        ],
+        "max_xy_extent": 0.04688412696123123,
+        "min_xy_extent": 0.03673684597015381,
+        "height": 0.01674330234527588,
+        "aspect_ratio": 2.8001720905303955
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.61410261066598e-17,
+          0.6322712302207947
+        ],
+        "settled_distance": 0.22772878408432007,
+        "extents": [
+          0.04216092824935913,
+          0.05409897118806839,
+          0.01863914728164673
+        ],
+        "max_xy_extent": 0.05409897118806839,
+        "min_xy_extent": 0.04216092824935913,
+        "height": 0.01863914728164673,
+        "aspect_ratio": 2.902438163757324
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.095522250693648e-08,
+          0.6332135200500488
+        ],
+        "settled_distance": 0.22678649425506592,
+        "extents": [
+          0.047585129737854004,
+          0.061313845217227936,
+          0.02053511142730713
+        ],
+        "max_xy_extent": 0.061313845217227936,
+        "min_xy_extent": 0.047585129737854004,
+        "height": 0.02053511142730713,
+        "aspect_ratio": 2.9858052730560303
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.9496418701692164e-08,
+          0.6341557502746582
+        ],
+        "settled_distance": 0.22584426403045654,
+        "extents": [
+          0.0530092716217041,
+          0.06852871179580688,
+          0.022431015968322754
+        ],
+        "max_xy_extent": 0.06852871179580688,
+        "min_xy_extent": 0.0530092716217041,
+        "height": 0.022431015968322754,
+        "aspect_ratio": 3.0550873279571533
+      }
+    ],
+    "recommended_extents": [
+      0.03673684597015381,
+      0.04688412696123123,
+      0.01674330234527588
+    ],
+    "recommended_max_xy_extent": 0.04688412696123123,
+    "recommended_height": 0.01674330234527588,
+    "recommended_aspect_ratio": 2.8001720905303955,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/001/001.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300023198127747,
+          -4.434388756635599e-06,
+          0.6306087374687195
+        ],
+        "settled_distance": 0.22939127683639526,
+        "extents": [
+          0.032106995582580566,
+          0.04029801860451698,
+          0.01535797119140625
+        ],
+        "max_xy_extent": 0.04029801860451698,
+        "min_xy_extent": 0.032106995582580566,
+        "height": 0.01535797119140625,
+        "aspect_ratio": 2.623915433883667
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300055384635925,
+          -7.909583473519888e-06,
+          0.6315934062004089
+        ],
+        "settled_distance": 0.2284066081047058,
+        "extents": [
+          0.03770822286605835,
+          0.04765359312295914,
+          0.017397284507751465
+        ],
+        "max_xy_extent": 0.04765359312295914,
+        "min_xy_extent": 0.03770822286605835,
+        "height": 0.017397284507751465,
+        "aspect_ratio": 2.7391397953033447
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300431489944458,
+          -4.382118640933186e-05,
+          0.6325144171714783
+        ],
+        "settled_distance": 0.22748559713363647,
+        "extents": [
+          0.04339689016342163,
+          0.05509142205119133,
+          0.01986861228942871
+        ],
+        "max_xy_extent": 0.05509142205119133,
+        "min_xy_extent": 0.04339689016342163,
+        "height": 0.01986861228942871,
+        "aspect_ratio": 2.7727866172790527
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300917267799377,
+          -9.08950314624235e-05,
+          0.6334019303321838
+        ],
+        "settled_distance": 0.2265981137752533,
+        "extents": [
+          0.04911148548126221,
+          0.06255269795656204,
+          0.022490978240966797
+        ],
+        "max_xy_extent": 0.06255269795656204,
+        "min_xy_extent": 0.04911148548126221,
+        "height": 0.022490978240966797,
+        "aspect_ratio": 2.7812349796295166
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6301337480545044,
+          -0.00010037094762083143,
+          0.6343668699264526
+        ],
+        "settled_distance": 0.22563321888446808,
+        "extents": [
+          0.05480307340621948,
+          0.06990332901477814,
+          0.024713218212127686
+        ],
+        "max_xy_extent": 0.06990332901477814,
+        "min_xy_extent": 0.05480307340621948,
+        "height": 0.024713218212127686,
+        "aspect_ratio": 2.828580617904663
+      }
+    ],
+    "recommended_extents": [
+      0.032106995582580566,
+      0.04029801860451698,
+      0.01535797119140625
+    ],
+    "recommended_max_xy_extent": 0.04029801860451698,
+    "recommended_height": 0.01535797119140625,
+    "recommended_aspect_ratio": 2.623915433883667,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/002/002.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299627423286438,
+          -6.496482092188671e-05,
+          0.630507230758667
+        ],
+        "settled_distance": 0.22949279844760895,
+        "extents": [
+          0.0322757363319397,
+          0.0407143235206604,
+          0.01587224006652832
+        ],
+        "max_xy_extent": 0.0407143235206604,
+        "min_xy_extent": 0.0322757363319397,
+        "height": 0.01587224006652832,
+        "aspect_ratio": 2.5651278495788574
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.629952073097229,
+          -7.074945460772142e-05,
+          0.6314759850502014
+        ],
+        "settled_distance": 0.22852404415607452,
+        "extents": [
+          0.037901997566223145,
+          0.048131220042705536,
+          0.018000900745391846
+        ],
+        "max_xy_extent": 0.048131220042705536,
+        "min_xy_extent": 0.037901997566223145,
+        "height": 0.018000900745391846,
+        "aspect_ratio": 2.6738228797912598
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299421787261963,
+          -8.159427670761943e-05,
+          0.6324435472488403
+        ],
+        "settled_distance": 0.2275564968585968,
+        "extents": [
+          0.04353064298629761,
+          0.055555377155542374,
+          0.020120680332183838
+        ],
+        "max_xy_extent": 0.055555377155542374,
+        "min_xy_extent": 0.04353064298629761,
+        "height": 0.020120680332183838,
+        "aspect_ratio": 2.7611083984375
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299301981925964,
+          -9.195436723530293e-05,
+          0.633412778377533
+        ],
+        "settled_distance": 0.22658726572990417,
+        "extents": [
+          0.049129366874694824,
+          0.06296388059854507,
+          0.02221471071243286
+        ],
+        "max_xy_extent": 0.06296388059854507,
+        "min_xy_extent": 0.049129366874694824,
+        "height": 0.02221471071243286,
+        "aspect_ratio": 2.8343327045440674
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299092769622803,
+          -0.00010492012370377779,
+          0.6343830823898315
+        ],
+        "settled_distance": 0.22561697661876678,
+        "extents": [
+          0.05478137731552124,
+          0.07038892805576324,
+          0.02437072992324829
+        ],
+        "max_xy_extent": 0.07038892805576324,
+        "min_xy_extent": 0.05478137731552124,
+        "height": 0.02437072992324829,
+        "aspect_ratio": 2.888256788253784
+      }
+    ],
+    "recommended_extents": [
+      0.0322757363319397,
+      0.0407143235206604,
+      0.01587224006652832
+    ],
+    "recommended_max_xy_extent": 0.0407143235206604,
+    "recommended_height": 0.01587224006652832,
+    "recommended_aspect_ratio": 2.5651278495788574,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/003/003.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.77563141224798e-16,
+          0.638893723487854
+        ],
+        "settled_distance": 0.22110629081726074,
+        "extents": [
+          0.015210509300231934,
+          0.03194434940814972,
+          0.03194504976272583
+        ],
+        "max_xy_extent": 0.03194434940814972,
+        "min_xy_extent": 0.015210509300231934,
+        "height": 0.03194504976272583,
+        "aspect_ratio": 2.10019588470459
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.5356099852278606e-16,
+          0.6416577696800232
+        ],
+        "settled_distance": 0.21834224462509155,
+        "extents": [
+          0.017184197902679443,
+          0.03750385344028473,
+          0.03750467300415039
+        ],
+        "max_xy_extent": 0.03750385344028473,
+        "min_xy_extent": 0.017184197902679443,
+        "height": 0.03750467300415039,
+        "aspect_ratio": 2.182509422302246
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          4.63846781086e-18,
+          0.6444238424301147
+        ],
+        "settled_distance": 0.215576171875,
+        "extents": [
+          0.019157826900482178,
+          0.04306335747241974,
+          0.04306435585021973
+        ],
+        "max_xy_extent": 0.04306335747241974,
+        "min_xy_extent": 0.019157826900482178,
+        "height": 0.04306435585021973,
+        "aspect_ratio": 2.2478725910186768
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6306185722351074,
+          0.0016201093094423413,
+          0.6465098261833191
+        ],
+        "settled_distance": 0.21349722146987915,
+        "extents": [
+          0.02256995439529419,
+          0.05209857225418091,
+          0.05266451835632324
+        ],
+        "max_xy_extent": 0.05209857225418091,
+        "min_xy_extent": 0.02256995439529419,
+        "height": 0.05266451835632324,
+        "aspect_ratio": 2.333390474319458
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6332678198814392,
+          0.008822424337267876,
+          0.6444171667098999
+        ],
+        "settled_distance": 0.21578803658485413,
+        "extents": [
+          0.03255355358123779,
+          0.0711669996380806,
+          0.07339674234390259
+        ],
+        "max_xy_extent": 0.0711669996380806,
+        "min_xy_extent": 0.03255355358123779,
+        "height": 0.07339674234390259,
+        "aspect_ratio": 2.254646062850952
+      }
+    ],
+    "recommended_extents": [
+      0.019157826900482178,
+      0.04306335747241974,
+      0.04306435585021973
+    ],
+    "recommended_max_xy_extent": 0.04306335747241974,
+    "recommended_height": 0.04306435585021973,
+    "recommended_aspect_ratio": 2.2478725910186768,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/004/004.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.46,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299992799758911,
+          -4.17520095652435e-06,
+          0.6398568153381348
+        ],
+        "settled_distance": 0.22014319896697998,
+        "extents": [
+          0.03206586837768555,
+          0.03190627321600914,
+          0.0403139591217041
+        ],
+        "max_xy_extent": 0.03206586837768555,
+        "min_xy_extent": 0.03190627321600914,
+        "height": 0.0403139591217041,
+        "aspect_ratio": 1.2635120153427124
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300002336502075,
+          -5.490998773893807e-06,
+          0.6428309082984924
+        ],
+        "settled_distance": 0.21716910600662231,
+        "extents": [
+          0.037649571895599365,
+          0.037458401173353195,
+          0.04766613245010376
+        ],
+        "max_xy_extent": 0.037649571895599365,
+        "min_xy_extent": 0.037458401173353195,
+        "height": 0.04766613245010376,
+        "aspect_ratio": 1.2725085020065308
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300030946731567,
+          -3.528457455104217e-05,
+          0.6457900404930115
+        ],
+        "settled_distance": 0.21420997381210327,
+        "extents": [
+          0.04324239492416382,
+          0.04308620095252991,
+          0.05508434772491455
+        ],
+        "max_xy_extent": 0.04324239492416382,
+        "min_xy_extent": 0.04308620095252991,
+        "height": 0.05508434772491455,
+        "aspect_ratio": 1.2784684896469116
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300088167190552,
+          -6.087491783546284e-05,
+          0.6487572193145752
+        ],
+        "settled_distance": 0.21124280989170074,
+        "extents": [
+          0.048842549324035645,
+          0.048701897263526917,
+          0.06249815225601196
+        ],
+        "max_xy_extent": 0.048842549324035645,
+        "min_xy_extent": 0.048701897263526917,
+        "height": 0.06249815225601196,
+        "aspect_ratio": 1.2832796573638916
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6301082372665405,
+          -0.0002716112066991627,
+          0.651651918888092
+        ],
+        "settled_distance": 0.20834830403327942,
+        "extents": [
+          0.05468952655792236,
+          0.05479331314563751,
+          0.07046955823898315
+        ],
+        "max_xy_extent": 0.05479331314563751,
+        "min_xy_extent": 0.05468952655792236,
+        "height": 0.07046955823898315,
+        "aspect_ratio": 1.2885384559631348
+      }
+    ],
+    "recommended_extents": [
+      0.048842549324035645,
+      0.048701897263526917,
+      0.06249815225601196
+    ],
+    "recommended_max_xy_extent": 0.048842549324035645,
+    "recommended_height": 0.06249815225601196,
+    "recommended_aspect_ratio": 1.2832796573638916,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/005/005.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.169582697797129e-18,
+          0.6306884288787842
+        ],
+        "settled_distance": 0.22931158542633057,
+        "extents": [
+          0.0321924090385437,
+          0.04049050807952881,
+          0.015436053276062012
+        ],
+        "max_xy_extent": 0.04049050807952881,
+        "min_xy_extent": 0.0321924090385437,
+        "height": 0.015436053276062012,
+        "aspect_ratio": 2.623112678527832
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          8.12133628524017e-19,
+          0.6316952109336853
+        ],
+        "settled_distance": 0.22830480337142944,
+        "extents": [
+          0.03780508041381836,
+          0.04788133502006531,
+          0.017458081245422363
+        ],
+        "max_xy_extent": 0.04788133502006531,
+        "min_xy_extent": 0.03780508041381836,
+        "height": 0.017458081245422363,
+        "aspect_ratio": 2.7426459789276123
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.629999041557312,
+          6.555138725161669e-07,
+          0.6327006816864014
+        ],
+        "settled_distance": 0.22729933261871338,
+        "extents": [
+          0.04342019557952881,
+          0.055273812264204025,
+          0.019490361213684082
+        ],
+        "max_xy_extent": 0.055273812264204025,
+        "min_xy_extent": 0.04342019557952881,
+        "height": 0.019490361213684082,
+        "aspect_ratio": 2.835956335067749
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299982666969299,
+          -9.117759418586502e-07,
+          0.6337073445320129
+        ],
+        "settled_distance": 0.2262926697731018,
+        "extents": [
+          0.04903465509414673,
+          0.06266526132822037,
+          0.021518409252166748
+        ],
+        "max_xy_extent": 0.06266526132822037,
+        "min_xy_extent": 0.04903465509414673,
+        "height": 0.021518409252166748,
+        "aspect_ratio": 2.9121696949005127
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6297634243965149,
+          -0.00015167162928264588,
+          0.6346849799156189
+        ],
+        "settled_distance": 0.22531519830226898,
+        "extents": [
+          0.055213093757629395,
+          0.07041791081428528,
+          0.025923967361450195
+        ],
+        "max_xy_extent": 0.07041791081428528,
+        "min_xy_extent": 0.055213093757629395,
+        "height": 0.025923967361450195,
+        "aspect_ratio": 2.7163245677948
+      }
+    ],
+    "recommended_extents": [
+      0.0321924090385437,
+      0.04049050807952881,
+      0.015436053276062012
+    ],
+    "recommended_max_xy_extent": 0.04049050807952881,
+    "recommended_height": 0.015436053276062012,
+    "recommended_aspect_ratio": 2.623112678527832,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/006/006.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6298049688339233,
+          0.0030157631263136864,
+          0.6352916359901428
+        ],
+        "settled_distance": 0.22472870349884033,
+        "extents": [
+          0.015347480773925781,
+          0.05442598834633827,
+          0.042545199394226074
+        ],
+        "max_xy_extent": 0.05442598834633827,
+        "min_xy_extent": 0.015347480773925781,
+        "height": 0.042545199394226074,
+        "aspect_ratio": 3.5462489128112793
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6297307014465332,
+          0.0035197013057768345,
+          0.6372867226600647
+        ],
+        "settled_distance": 0.2227412611246109,
+        "extents": [
+          0.017494559288024902,
+          0.06452855467796326,
+          0.05013871192932129
+        ],
+        "max_xy_extent": 0.06452855467796326,
+        "min_xy_extent": 0.017494559288024902,
+        "height": 0.05013871192932129,
+        "aspect_ratio": 3.688492774963379
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6296971440315247,
+          0.004269239027053118,
+          0.6392874121665955
+        ],
+        "settled_distance": 0.22075408697128296,
+        "extents": [
+          0.019417643547058105,
+          0.07463061809539795,
+          0.05766773223876953
+        ],
+        "max_xy_extent": 0.07463061809539795,
+        "min_xy_extent": 0.019417643547058105,
+        "height": 0.05766773223876953,
+        "aspect_ratio": 3.8434436321258545
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6296275854110718,
+          0.00482729310169816,
+          0.6412811875343323
+        ],
+        "settled_distance": 0.21877241134643555,
+        "extents": [
+          0.021535158157348633,
+          0.0847296342253685,
+          0.06524324417114258
+        ],
+        "max_xy_extent": 0.0847296342253685,
+        "min_xy_extent": 0.021535158157348633,
+        "height": 0.06524324417114258,
+        "aspect_ratio": 3.934479236602783
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6295830607414246,
+          0.005278156138956547,
+          0.6432753205299377
+        ],
+        "settled_distance": 0.2167893499135971,
+        "extents": [
+          0.02358114719390869,
+          0.09483056515455246,
+          0.07279849052429199
+        ],
+        "max_xy_extent": 0.09483056515455246,
+        "min_xy_extent": 0.02358114719390869,
+        "height": 0.07279849052429199,
+        "aspect_ratio": 4.021456718444824
+      }
+    ],
+    "recommended_extents": [
+      0.015347480773925781,
+      0.05442598834633827,
+      0.042545199394226074
+    ],
+    "recommended_max_xy_extent": 0.05442598834633827,
+    "recommended_height": 0.042545199394226074,
+    "recommended_aspect_ratio": 3.5462489128112793,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/007/007.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300144791603088,
+          -2.4663633666932583e-05,
+          0.6305845379829407
+        ],
+        "settled_distance": 0.22941547632217407,
+        "extents": [
+          0.03205364942550659,
+          0.04051854833960533,
+          0.015262722969055176
+        ],
+        "max_xy_extent": 0.04051854833960533,
+        "min_xy_extent": 0.03205364942550659,
+        "height": 0.015262722969055176,
+        "aspect_ratio": 2.6547391414642334
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.630018413066864,
+          -2.968182525364682e-05,
+          0.6315727233886719
+        ],
+        "settled_distance": 0.22842729091644287,
+        "extents": [
+          0.03763699531555176,
+          0.047911278903484344,
+          0.01725149154663086
+        ],
+        "max_xy_extent": 0.047911278903484344,
+        "min_xy_extent": 0.03763699531555176,
+        "height": 0.01725149154663086,
+        "aspect_ratio": 2.7772252559661865
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300225257873535,
+          -3.4392523957649246e-05,
+          0.632559597492218
+        ],
+        "settled_distance": 0.22744041681289673,
+        "extents": [
+          0.0432204008102417,
+          0.05530327558517456,
+          0.01923900842666626
+        ],
+        "max_xy_extent": 0.05530327558517456,
+        "min_xy_extent": 0.0432204008102417,
+        "height": 0.01923900842666626,
+        "aspect_ratio": 2.8745386600494385
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300268769264221,
+          -3.907934660674073e-05,
+          0.6335465908050537
+        ],
+        "settled_distance": 0.22645343840122223,
+        "extents": [
+          0.048804283142089844,
+          0.06269518285989761,
+          0.021227717399597168
+        ],
+        "max_xy_extent": 0.06269518285989761,
+        "min_xy_extent": 0.048804283142089844,
+        "height": 0.021227717399597168,
+        "aspect_ratio": 2.953458547592163
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6301464438438416,
+          4.1749176489247475e-06,
+          0.6345176100730896
+        ],
+        "settled_distance": 0.22548244893550873,
+        "extents": [
+          0.05468583106994629,
+          0.07001601159572601,
+          0.023624658584594727
+        ],
+        "max_xy_extent": 0.07001601159572601,
+        "min_xy_extent": 0.05468583106994629,
+        "height": 0.023624658584594727,
+        "aspect_ratio": 2.963683605194092
+      }
+    ],
+    "recommended_extents": [
+      0.03205364942550659,
+      0.04051854833960533,
+      0.015262722969055176
+    ],
+    "recommended_max_xy_extent": 0.04051854833960533,
+    "recommended_height": 0.015262722969055176,
+    "recommended_aspect_ratio": 2.6547391414642334,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/008/008.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.240296712727977e-16,
+          0.6385551691055298
+        ],
+        "settled_distance": 0.22144484519958496,
+        "extents": [
+          0.031141161918640137,
+          0.0316447876393795,
+          0.03114253282546997
+        ],
+        "max_xy_extent": 0.0316447876393795,
+        "min_xy_extent": 0.031141161918640137,
+        "height": 0.03114253282546997,
+        "aspect_ratio": 1.0161722898483276
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -6.084613530997983e-16,
+          0.6412477493286133
+        ],
+        "settled_distance": 0.21875226497650146,
+        "extents": [
+          0.03652852773666382,
+          0.037140101194381714,
+          0.03653031587600708
+        ],
+        "max_xy_extent": 0.037140101194381714,
+        "min_xy_extent": 0.03652852773666382,
+        "height": 0.03653031587600708,
+        "aspect_ratio": 1.0167423486709595
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.349111045101381e-07,
+          0.643939197063446
+        ],
+        "settled_distance": 0.2160608172416687,
+        "extents": [
+          0.04191601276397705,
+          0.042635709047317505,
+          0.041918277740478516
+        ],
+        "max_xy_extent": 0.042635709047317505,
+        "min_xy_extent": 0.04191601276397705,
+        "height": 0.041918277740478516,
+        "aspect_ratio": 1.0171699523925781
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.630232572555542,
+          0.008624648675322533,
+          0.6394879817962646
+        ],
+        "settled_distance": 0.22068074345588684,
+        "extents": [
+          0.048030316829681396,
+          0.06438551098108292,
+          0.06447237730026245
+        ],
+        "max_xy_extent": 0.06438551098108292,
+        "min_xy_extent": 0.048030316829681396,
+        "height": 0.06447237730026245,
+        "aspect_ratio": 1.3423267602920532
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6302350759506226,
+          0.009696883149445057,
+          0.6412487030029297
+        ],
+        "settled_distance": 0.2189662605524063,
+        "extents": [
+          0.05342525243759155,
+          0.07171429693698883,
+          0.07176065444946289
+        ],
+        "max_xy_extent": 0.07171429693698883,
+        "min_xy_extent": 0.05342525243759155,
+        "height": 0.07176065444946289,
+        "aspect_ratio": 1.3431973457336426
+      }
+    ],
+    "recommended_extents": [
+      0.04191601276397705,
+      0.042635709047317505,
+      0.041918277740478516
+    ],
+    "recommended_max_xy_extent": 0.042635709047317505,
+    "recommended_height": 0.041918277740478516,
+    "recommended_aspect_ratio": 1.0171699523925781,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/009/009.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299782991409302,
+          -9.162600326817483e-05,
+          0.630225658416748
+        ],
+        "settled_distance": 0.2297743707895279,
+        "extents": [
+          0.01511073112487793,
+          0.032044366002082825,
+          0.01538938283920288
+        ],
+        "max_xy_extent": 0.032044366002082825,
+        "min_xy_extent": 0.01511073112487793,
+        "height": 0.01538938283920288,
+        "aspect_ratio": 2.120636463165283
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.630018949508667,
+          -0.00010337971616536379,
+          0.6311649680137634
+        ],
+        "settled_distance": 0.2288350760936737,
+        "extents": [
+          0.017023086547851562,
+          0.03762982785701752,
+          0.01738041639328003
+        ],
+        "max_xy_extent": 0.03762982785701752,
+        "min_xy_extent": 0.017023086547851562,
+        "height": 0.01738041639328003,
+        "aspect_ratio": 2.210517406463623
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300320029258728,
+          -0.0001069392092176713,
+          0.6320779919624329
+        ],
+        "settled_distance": 0.22792203724384308,
+        "extents": [
+          0.018963396549224854,
+          0.0431981235742569,
+          0.019367575645446777
+        ],
+        "max_xy_extent": 0.0431981235742569,
+        "min_xy_extent": 0.018963396549224854,
+        "height": 0.019367575645446777,
+        "aspect_ratio": 2.2779738903045654
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300431489944458,
+          -0.00011265033390372992,
+          0.6329883933067322
+        ],
+        "settled_distance": 0.22701165080070496,
+        "extents": [
+          0.020905733108520508,
+          0.04876125603914261,
+          0.021347641944885254
+        ],
+        "max_xy_extent": 0.04876125603914261,
+        "min_xy_extent": 0.020905733108520508,
+        "height": 0.021347641944885254,
+        "aspect_ratio": 2.33243465423584
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300502419471741,
+          -0.0001234000810654834,
+          0.6339001059532166
+        ],
+        "settled_distance": 0.22609995305538177,
+        "extents": [
+          0.02284616231918335,
+          0.05432534217834473,
+          0.023332297801971436
+        ],
+        "max_xy_extent": 0.05432534217834473,
+        "min_xy_extent": 0.02284616231918335,
+        "height": 0.023332297801971436,
+        "aspect_ratio": 2.377876043319702
+      }
+    ],
+    "recommended_extents": [
+      0.018963396549224854,
+      0.0431981235742569,
+      0.019367575645446777
+    ],
+    "recommended_max_xy_extent": 0.0431981235742569,
+    "recommended_height": 0.019367575645446777,
+    "recommended_aspect_ratio": 2.2779738903045654,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/010/010.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.159572388997041e-16,
+          0.6381363272666931
+        ],
+        "settled_distance": 0.22186368703842163,
+        "extents": [
+          0.031956255435943604,
+          0.039996907114982605,
+          0.03195631504058838
+        ],
+        "max_xy_extent": 0.039996907114982605,
+        "min_xy_extent": 0.031956255435943604,
+        "height": 0.03195631504058838,
+        "aspect_ratio": 1.2516143321990967
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.85629334020976e-10,
+          0.6407400369644165
+        ],
+        "settled_distance": 0.21925997734069824,
+        "extents": [
+          0.037518322467803955,
+          0.04728196561336517,
+          0.037518322467803955
+        ],
+        "max_xy_extent": 0.04728196561336517,
+        "min_xy_extent": 0.037518322467803955,
+        "height": 0.037518322467803955,
+        "aspect_ratio": 1.2602366209030151
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.198208820494152e-17,
+          0.6433429718017578
+        ],
+        "settled_distance": 0.21665704250335693,
+        "extents": [
+          0.04308038949966431,
+          0.054567012935876846,
+          0.04308044910430908
+        ],
+        "max_xy_extent": 0.054567012935876846,
+        "min_xy_extent": 0.04308038949966431,
+        "height": 0.04308044910430908,
+        "aspect_ratio": 1.266632318496704
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.7092011328238875e-17,
+          0.6459459066390991
+        ],
+        "settled_distance": 0.21405410766601562,
+        "extents": [
+          0.04864245653152466,
+          0.061852067708969116,
+          0.048642516136169434
+        ],
+        "max_xy_extent": 0.061852067708969116,
+        "min_xy_extent": 0.04864245653152466,
+        "height": 0.048642516136169434,
+        "aspect_ratio": 1.2715654373168945
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.026943176022575e-16,
+          0.6485488414764404
+        ],
+        "settled_distance": 0.21145117282867432,
+        "extents": [
+          0.05420452356338501,
+          0.06913711875677109,
+          0.05420452356338501
+        ],
+        "max_xy_extent": 0.06913711875677109,
+        "min_xy_extent": 0.05420452356338501,
+        "height": 0.05420452356338501,
+        "aspect_ratio": 1.2754861116409302
+      }
+    ],
+    "recommended_extents": [
+      0.037518322467803955,
+      0.04728196561336517,
+      0.037518322467803955
+    ],
+    "recommended_max_xy_extent": 0.04728196561336517,
+    "recommended_height": 0.037518322467803955,
+    "recommended_aspect_ratio": 1.2602366209030151,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/011/011.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300744414329529,
+          -9.903686441248283e-05,
+          0.6303611397743225
+        ],
+        "settled_distance": 0.22963890433311462,
+        "extents": [
+          0.03179210424423218,
+          0.04895045980811119,
+          0.016574621200561523
+        ],
+        "max_xy_extent": 0.04895045980811119,
+        "min_xy_extent": 0.03179210424423218,
+        "height": 0.016574621200561523,
+        "aspect_ratio": 2.953338146209717
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.630109429359436,
+          -0.00011015731433872133,
+          0.6313012838363647
+        ],
+        "settled_distance": 0.22869877517223358,
+        "extents": [
+          0.03735971450805664,
+          0.0581163614988327,
+          0.01887035369873047
+        ],
+        "max_xy_extent": 0.0581163614988327,
+        "min_xy_extent": 0.03735971450805664,
+        "height": 0.01887035369873047,
+        "aspect_ratio": 3.079770565032959
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6301572322845459,
+          -0.00011723432544386014,
+          0.6322402358055115
+        ],
+        "settled_distance": 0.22775986790657043,
+        "extents": [
+          0.04298454523086548,
+          0.06727235019207001,
+          0.02123725414276123
+        ],
+        "max_xy_extent": 0.06727235019207001,
+        "min_xy_extent": 0.04298454523086548,
+        "height": 0.02123725414276123,
+        "aspect_ratio": 3.1676576137542725
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6302019357681274,
+          -0.00012418132973834872,
+          0.6331773400306702
+        ],
+        "settled_distance": 0.22682279348373413,
+        "extents": [
+          0.048577964305877686,
+          0.07643067091703415,
+          0.023555099964141846
+        ],
+        "max_xy_extent": 0.07643067091703415,
+        "min_xy_extent": 0.048577964305877686,
+        "height": 0.023555099964141846,
+        "aspect_ratio": 3.2447609901428223
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300167441368103,
+          -0.00022299184638541192,
+          0.6341148018836975
+        ],
+        "settled_distance": 0.2258853167295456,
+        "extents": [
+          0.05358171463012695,
+          0.08579495549201965,
+          0.02525275945663452
+        ],
+        "max_xy_extent": 0.08579495549201965,
+        "min_xy_extent": 0.05358171463012695,
+        "height": 0.02525275945663452,
+        "aspect_ratio": 3.397448778152466
+      }
+    ],
+    "recommended_extents": [
+      0.03179210424423218,
+      0.04895045980811119,
+      0.016574621200561523
+    ],
+    "recommended_max_xy_extent": 0.04895045980811119,
+    "recommended_height": 0.016574621200561523,
+    "recommended_aspect_ratio": 2.953338146209717,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/012/012.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.46,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.3080432849795966e-16,
+          0.638913631439209
+        ],
+        "settled_distance": 0.22108638286590576,
+        "extents": [
+          0.03185611963272095,
+          0.032126158475875854,
+          0.0318562388420105
+        ],
+        "max_xy_extent": 0.032126158475875854,
+        "min_xy_extent": 0.03185611963272095,
+        "height": 0.0318562388420105,
+        "aspect_ratio": 1.0084768533706665
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.551251442490731e-17,
+          0.6416829824447632
+        ],
+        "settled_distance": 0.21831703186035156,
+        "extents": [
+          0.03739672899246216,
+          0.03772462159395218,
+          0.03739684820175171
+        ],
+        "max_xy_extent": 0.03772462159395218,
+        "min_xy_extent": 0.03739672899246216,
+        "height": 0.03739684820175171,
+        "aspect_ratio": 1.0087679624557495
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.349290960553186e-18,
+          0.6444522738456726
+        ],
+        "settled_distance": 0.21554774045944214,
+        "extents": [
+          0.042937278747558594,
+          0.0433230847120285,
+          0.04293745756149292
+        ],
+        "max_xy_extent": 0.0433230847120285,
+        "min_xy_extent": 0.042937278747558594,
+        "height": 0.04293745756149292,
+        "aspect_ratio": 1.0089852809906006
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.3344940063399803e-16,
+          0.6472216248512268
+        ],
+        "settled_distance": 0.21277838945388794,
+        "extents": [
+          0.048477888107299805,
+          0.04892154783010483,
+          0.04847806692123413
+        ],
+        "max_xy_extent": 0.04892154783010483,
+        "min_xy_extent": 0.048477888107299805,
+        "height": 0.04847806692123413,
+        "aspect_ratio": 1.009151816368103
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300153136253357,
+          -8.85188565007411e-05,
+          0.6499661207199097
+        ],
+        "settled_distance": 0.21003390848636627,
+        "extents": [
+          0.05405163764953613,
+          0.05471101030707359,
+          0.05424445867538452
+        ],
+        "max_xy_extent": 0.05471101030707359,
+        "min_xy_extent": 0.05405163764953613,
+        "height": 0.05424445867538452,
+        "aspect_ratio": 1.0121989250183105
+      }
+    ],
+    "recommended_extents": [
+      0.048477888107299805,
+      0.04892154783010483,
+      0.04847806692123413
+    ],
+    "recommended_max_xy_extent": 0.04892154783010483,
+    "recommended_height": 0.04847806692123413,
+    "recommended_aspect_ratio": 1.009151816368103,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/013/013.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.46,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.6543243166258945e-17,
+          0.639077365398407
+        ],
+        "settled_distance": 0.22092264890670776,
+        "extents": [
+          0.03198939561843872,
+          0.031667355448007584,
+          0.031990230083465576
+        ],
+        "max_xy_extent": 0.03198939561843872,
+        "min_xy_extent": 0.031667355448007584,
+        "height": 0.031990230083465576,
+        "aspect_ratio": 1.0101958513259888
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.8481641176982804e-16,
+          0.6418818235397339
+        ],
+        "settled_distance": 0.21811819076538086,
+        "extents": [
+          0.037558555603027344,
+          0.0371675044298172,
+          0.03755950927734375
+        ],
+        "max_xy_extent": 0.037558555603027344,
+        "min_xy_extent": 0.0371675044298172,
+        "height": 0.03755950927734375,
+        "aspect_ratio": 1.0105469226837158
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          7.707379765426963e-17,
+          0.644686222076416
+        ],
+        "settled_distance": 0.21531379222869873,
+        "extents": [
+          0.04312771558761597,
+          0.04266764968633652,
+          0.0431288480758667
+        ],
+        "max_xy_extent": 0.04312771558761597,
+        "min_xy_extent": 0.04266764968633652,
+        "height": 0.0431288480758667,
+        "aspect_ratio": 1.010809063911438
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.155783119209833e-20,
+          0.6474906802177429
+        ],
+        "settled_distance": 0.21250933408737183,
+        "extents": [
+          0.04869687557220459,
+          0.048167794942855835,
+          0.048698246479034424
+        ],
+        "max_xy_extent": 0.04869687557220459,
+        "min_xy_extent": 0.048167794942855835,
+        "height": 0.048698246479034424,
+        "aspect_ratio": 1.0110125541687012
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.17187286687643e-21,
+          0.6502951383590698
+        ],
+        "settled_distance": 0.20970487594604492,
+        "extents": [
+          0.05426603555679321,
+          0.05366794764995575,
+          0.0542675256729126
+        ],
+        "max_xy_extent": 0.05426603555679321,
+        "min_xy_extent": 0.05366794764995575,
+        "height": 0.0542675256729126,
+        "aspect_ratio": 1.0111719369888306
+      }
+    ],
+    "recommended_extents": [
+      0.04869687557220459,
+      0.048167794942855835,
+      0.048698246479034424
+    ],
+    "recommended_max_xy_extent": 0.04869687557220459,
+    "recommended_height": 0.048698246479034424,
+    "recommended_aspect_ratio": 1.0110125541687012,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/014/014.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.3056367542674252e-08,
+          0.630648672580719
+        ],
+        "settled_distance": 0.22935134172439575,
+        "extents": [
+          0.014859020709991455,
+          0.04009242355823517,
+          0.015396058559417725
+        ],
+        "max_xy_extent": 0.04009242355823517,
+        "min_xy_extent": 0.014859020709991455,
+        "height": 0.015396058559417725,
+        "aspect_ratio": 2.6981875896453857
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6298398375511169,
+          -8.034344500629231e-05,
+          0.631410539150238
+        ],
+        "settled_distance": 0.22858954966068268,
+        "extents": [
+          0.01720219850540161,
+          0.04760744422674179,
+          0.018396377563476562
+        ],
+        "max_xy_extent": 0.04760744422674179,
+        "min_xy_extent": 0.01720219850540161,
+        "height": 0.018396377563476562,
+        "aspect_ratio": 2.7675209045410156
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6298111081123352,
+          -9.223046799888834e-05,
+          0.6323691010475159
+        ],
+        "settled_distance": 0.22763101756572723,
+        "extents": [
+          0.01915872097015381,
+          0.054936137050390244,
+          0.020554542541503906
+        ],
+        "max_xy_extent": 0.054936137050390244,
+        "min_xy_extent": 0.01915872097015381,
+        "height": 0.020554542541503906,
+        "aspect_ratio": 2.867421865463257
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6298159956932068,
+          -0.00011843525135191157,
+          0.6333277225494385
+        ],
+        "settled_distance": 0.22667239606380463,
+        "extents": [
+          0.021036148071289062,
+          0.062299296259880066,
+          0.02273494005203247
+        ],
+        "max_xy_extent": 0.062299296259880066,
+        "min_xy_extent": 0.021036148071289062,
+        "height": 0.02273494005203247,
+        "aspect_ratio": 2.9615354537963867
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6297547221183777,
+          -0.00011581870057852939,
+          0.6342865228652954
+        ],
+        "settled_distance": 0.22571365535259247,
+        "extents": [
+          0.02307826280593872,
+          0.06959478557109833,
+          0.02486896514892578
+        ],
+        "max_xy_extent": 0.06959478557109833,
+        "min_xy_extent": 0.02307826280593872,
+        "height": 0.02486896514892578,
+        "aspect_ratio": 3.015599012374878
+      }
+    ],
+    "recommended_extents": [
+      0.01720219850540161,
+      0.04760744422674179,
+      0.018396377563476562
+    ],
+    "recommended_max_xy_extent": 0.04760744422674179,
+    "recommended_height": 0.018396377563476562,
+    "recommended_aspect_ratio": 2.7675209045410156,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/015/015.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.551401658489971e-17,
+          0.6386153697967529
+        ],
+        "settled_distance": 0.22138464450836182,
+        "extents": [
+          0.014524877071380615,
+          0.04046941176056862,
+          0.03157144784927368
+        ],
+        "max_xy_extent": 0.04046941176056862,
+        "min_xy_extent": 0.014524877071380615,
+        "height": 0.03157144784927368,
+        "aspect_ratio": 2.7862136363983154
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          9.657546945040629e-15,
+          0.6413208246231079
+        ],
+        "settled_distance": 0.21867918968200684,
+        "extents": [
+          0.016351640224456787,
+          0.04785571247339249,
+          0.03705102205276489
+        ],
+        "max_xy_extent": 0.04785571247339249,
+        "min_xy_extent": 0.016351640224456787,
+        "height": 0.03705102205276489,
+        "aspect_ratio": 2.926661252975464
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6323503851890564,
+          0.0062968055717647076,
+          0.6387712955474854
+        ],
+        "settled_distance": 0.22133079171180725,
+        "extents": [
+          0.02532517910003662,
+          0.06746242940425873,
+          0.06192833185195923
+        ],
+        "max_xy_extent": 0.06746242940425873,
+        "min_xy_extent": 0.02532517910003662,
+        "height": 0.06192833185195923,
+        "aspect_ratio": 2.6638481616973877
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.632667064666748,
+          0.007189991883933544,
+          0.6406837701797485
+        ],
+        "settled_distance": 0.21945026516914368,
+        "extents": [
+          0.028164148330688477,
+          0.07636769115924835,
+          0.06993168592453003
+        ],
+        "max_xy_extent": 0.07636769115924835,
+        "min_xy_extent": 0.028164148330688477,
+        "height": 0.06993168592453003,
+        "aspect_ratio": 2.7115213871002197
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6325573921203613,
+          0.008121967315673828,
+          0.6426141858100891
+        ],
+        "settled_distance": 0.2175525277853012,
+        "extents": [
+          0.02982199192047119,
+          0.08523403108119965,
+          0.07774025201797485
+        ],
+        "max_xy_extent": 0.08523403108119965,
+        "min_xy_extent": 0.02982199192047119,
+        "height": 0.07774025201797485,
+        "aspect_ratio": 2.85809326171875
+      }
+    ],
+    "recommended_extents": [
+      0.014524877071380615,
+      0.04046941176056862,
+      0.03157144784927368
+    ],
+    "recommended_max_xy_extent": 0.04046941176056862,
+    "recommended_height": 0.03157144784927368,
+    "recommended_aspect_ratio": 2.7862136363983154,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/016/016.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.268148827257307e-16,
+          0.6299944519996643
+        ],
+        "settled_distance": 0.23000556230545044,
+        "extents": [
+          0.03156077861785889,
+          0.031111065298318863,
+          0.014220178127288818
+        ],
+        "max_xy_extent": 0.03156077861785889,
+        "min_xy_extent": 0.031111065298318863,
+        "height": 0.014220178127288818,
+        "aspect_ratio": 2.2194361686706543
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.3162386427541435e-16,
+          0.6308525204658508
+        ],
+        "settled_distance": 0.22914749383926392,
+        "extents": [
+          0.03703814744949341,
+          0.0364920049905777,
+          0.015981674194335938
+        ],
+        "max_xy_extent": 0.03703814744949341,
+        "min_xy_extent": 0.0364920049905777,
+        "height": 0.015981674194335938,
+        "aspect_ratio": 2.3175387382507324
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -4.0540578424922016e-17,
+          0.6317105889320374
+        ],
+        "settled_distance": 0.2282894253730774,
+        "extents": [
+          0.04251539707183838,
+          0.04187294840812683,
+          0.017743170261383057
+        ],
+        "max_xy_extent": 0.04251539707183838,
+        "min_xy_extent": 0.04187294840812683,
+        "height": 0.017743170261383057,
+        "aspect_ratio": 2.396155595779419
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          7.466391116435357e-18,
+          0.6325687170028687
+        ],
+        "settled_distance": 0.2274312973022461,
+        "extents": [
+          0.047992706298828125,
+          0.047253891825675964,
+          0.0195046067237854
+        ],
+        "max_xy_extent": 0.047992706298828125,
+        "min_xy_extent": 0.047253891825675964,
+        "height": 0.0195046067237854,
+        "aspect_ratio": 2.460583209991455
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.029318628224644e-11,
+          0.6334267854690552
+        ],
+        "settled_distance": 0.22657322883605957,
+        "extents": [
+          0.053470075130462646,
+          0.0526348352432251,
+          0.02126610279083252
+        ],
+        "max_xy_extent": 0.053470075130462646,
+        "min_xy_extent": 0.0526348352432251,
+        "height": 0.02126610279083252,
+        "aspect_ratio": 2.514333486557007
+      }
+    ],
+    "recommended_extents": [
+      0.04251539707183838,
+      0.04187294840812683,
+      0.017743170261383057
+    ],
+    "recommended_max_xy_extent": 0.04251539707183838,
+    "recommended_height": 0.017743170261383057,
+    "recommended_aspect_ratio": 2.396155595779419,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/017/017.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.46,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.55559050111194e-17,
+          0.6390714645385742
+        ],
+        "settled_distance": 0.22092854976654053,
+        "extents": [
+          0.03211081027984619,
+          0.031644511967897415,
+          0.03210914134979248
+        ],
+        "max_xy_extent": 0.03211081027984619,
+        "min_xy_extent": 0.031644511967897415,
+        "height": 0.03210914134979248,
+        "aspect_ratio": 1.014735460281372
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.7631242260004478e-17,
+          0.6418736577033997
+        ],
+        "settled_distance": 0.2181263566017151,
+        "extents": [
+          0.03770589828491211,
+          0.03713976591825485,
+          0.03770393133163452
+        ],
+        "max_xy_extent": 0.03770589828491211,
+        "min_xy_extent": 0.03713976591825485,
+        "height": 0.03770393133163452,
+        "aspect_ratio": 1.0152432918548584
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.4013661987345232e-17,
+          0.6446778178215027
+        ],
+        "settled_distance": 0.21532219648361206,
+        "extents": [
+          0.04330110549926758,
+          0.04263501614332199,
+          0.04329878091812134
+        ],
+        "max_xy_extent": 0.04330110549926758,
+        "min_xy_extent": 0.04263501614332199,
+        "height": 0.04329878091812134,
+        "aspect_ratio": 1.0156230926513672
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.9468296917680135e-16,
+          0.6474796533584595
+        ],
+        "settled_distance": 0.21252036094665527,
+        "extents": [
+          0.04889631271362305,
+          0.04813026636838913,
+          0.04889357089996338
+        ],
+        "max_xy_extent": 0.04889631271362305,
+        "min_xy_extent": 0.04813026636838913,
+        "height": 0.04889357089996338,
+        "aspect_ratio": 1.015916109085083
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.297107344849221e-16,
+          0.6502826809883118
+        ],
+        "settled_distance": 0.20971733331680298,
+        "extents": [
+          0.05449146032333374,
+          0.05362552031874657,
+          0.05448836088180542
+        ],
+        "max_xy_extent": 0.05449146032333374,
+        "min_xy_extent": 0.05362552031874657,
+        "height": 0.05448836088180542,
+        "aspect_ratio": 1.0161478519439697
+      }
+    ],
+    "recommended_extents": [
+      0.04889631271362305,
+      0.04813026636838913,
+      0.04889357089996338
+    ],
+    "recommended_max_xy_extent": 0.04889631271362305,
+    "recommended_height": 0.04889357089996338,
+    "recommended_aspect_ratio": 1.015916109085083,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/018/018.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -7.457207260966426e-17,
+          0.6390470266342163
+        ],
+        "settled_distance": 0.22095298767089844,
+        "extents": [
+          0.03188669681549072,
+          0.040101636201143265,
+          0.03173243999481201
+        ],
+        "max_xy_extent": 0.040101636201143265,
+        "min_xy_extent": 0.03188669681549072,
+        "height": 0.03173243999481201,
+        "aspect_ratio": 1.2637425661087036
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -9.722023145925185e-17,
+          0.6418460011482239
+        ],
+        "settled_distance": 0.21815401315689087,
+        "extents": [
+          0.03743380308151245,
+          0.04740913212299347,
+          0.037246525287628174
+        ],
+        "max_xy_extent": 0.04740913212299347,
+        "min_xy_extent": 0.03743380308151245,
+        "height": 0.037246525287628174,
+        "aspect_ratio": 1.272847056388855
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          6.100009099276882e-18,
+          0.644644021987915
+        ],
+        "settled_distance": 0.2153559923171997,
+        "extents": [
+          0.042980968952178955,
+          0.054716624319553375,
+          0.04276067018508911
+        ],
+        "max_xy_extent": 0.054716624319553375,
+        "min_xy_extent": 0.042980968952178955,
+        "height": 0.04276067018508911,
+        "aspect_ratio": 1.2796016931533813
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.285657346011682e-17,
+          0.6474422216415405
+        ],
+        "settled_distance": 0.21255779266357422,
+        "extents": [
+          0.04852813482284546,
+          0.06202411651611328,
+          0.04827475547790527
+        ],
+        "max_xy_extent": 0.06202411651611328,
+        "min_xy_extent": 0.04852813482284546,
+        "height": 0.04827475547790527,
+        "aspect_ratio": 1.284814715385437
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6297702193260193,
+          0.0013044599909335375,
+          0.6497742533683777
+        ],
+        "settled_distance": 0.21022993326187134,
+        "extents": [
+          0.05458664894104004,
+          0.07205228507518768,
+          0.057824909687042236
+        ],
+        "max_xy_extent": 0.07205228507518768,
+        "min_xy_extent": 0.05458664894104004,
+        "height": 0.057824909687042236,
+        "aspect_ratio": 1.319961667060852
+      }
+    ],
+    "recommended_extents": [
+      0.03743380308151245,
+      0.04740913212299347,
+      0.037246525287628174
+    ],
+    "recommended_max_xy_extent": 0.04740913212299347,
+    "recommended_height": 0.037246525287628174,
+    "recommended_aspect_ratio": 1.272847056388855,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/019/019.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -6.790456986688775e-25,
+          0.638570249080658
+        ],
+        "settled_distance": 0.2214297652244568,
+        "extents": [
+          0.03201037645339966,
+          0.040232062339782715,
+          0.031560301780700684
+        ],
+        "max_xy_extent": 0.040232062339782715,
+        "min_xy_extent": 0.03201037645339966,
+        "height": 0.031560301780700684,
+        "aspect_ratio": 1.2747679948806763
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.301658497417557e-21,
+          0.6412670016288757
+        ],
+        "settled_distance": 0.218733012676239,
+        "extents": [
+          0.03758406639099121,
+          0.04756750166416168,
+          0.03703749179840088
+        ],
+        "max_xy_extent": 0.04756750166416168,
+        "min_xy_extent": 0.03758406639099121,
+        "height": 0.03703749179840088,
+        "aspect_ratio": 1.2843067646026611
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.4701676448324677e-18,
+          0.6439617872238159
+        ],
+        "settled_distance": 0.21603822708129883,
+        "extents": [
+          0.04315763711929321,
+          0.05490294471383095,
+          0.04251474142074585
+        ],
+        "max_xy_extent": 0.05490294471383095,
+        "min_xy_extent": 0.04315763711929321,
+        "height": 0.04251474142074585,
+        "aspect_ratio": 1.2913860082626343
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          4.86955248937572e-21,
+          0.6466588377952576
+        ],
+        "settled_distance": 0.21334117650985718,
+        "extents": [
+          0.048731327056884766,
+          0.062238387763500214,
+          0.04799187183380127
+        ],
+        "max_xy_extent": 0.062238387763500214,
+        "min_xy_extent": 0.048731327056884766,
+        "height": 0.04799187183380127,
+        "aspect_ratio": 1.296852707862854
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6301367282867432,
+          -0.0005398605135269463,
+          0.6492047905921936
+        ],
+        "settled_distance": 0.21079595386981964,
+        "extents": [
+          0.0546116828918457,
+          0.07074619829654694,
+          0.05530649423599243
+        ],
+        "max_xy_extent": 0.07074619829654694,
+        "min_xy_extent": 0.0546116828918457,
+        "height": 0.05530649423599243,
+        "aspect_ratio": 1.295440673828125
+      }
+    ],
+    "recommended_extents": [
+      0.03758406639099121,
+      0.04756750166416168,
+      0.03703749179840088
+    ],
+    "recommended_max_xy_extent": 0.04756750166416168,
+    "recommended_height": 0.03703749179840088,
+    "recommended_aspect_ratio": 1.2843067646026611,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/020/020.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.76735055708532e-16,
+          0.6306715607643127
+        ],
+        "settled_distance": 0.229328453540802,
+        "extents": [
+          0.03197503089904785,
+          0.04054270312190056,
+          0.015247642993927002
+        ],
+        "max_xy_extent": 0.04054270312190056,
+        "min_xy_extent": 0.03197503089904785,
+        "height": 0.015247642993927002,
+        "aspect_ratio": 2.6589488983154297
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.551121740570683e-17,
+          0.6316747069358826
+        ],
+        "settled_distance": 0.22832530736923218,
+        "extents": [
+          0.037541091442108154,
+          0.04794470965862274,
+          0.01722925901412964
+        ],
+        "max_xy_extent": 0.04794470965862274,
+        "min_xy_extent": 0.037541091442108154,
+        "height": 0.01722925901412964,
+        "aspect_ratio": 2.7827494144439697
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.396967368998566e-17,
+          0.6326779127120972
+        ],
+        "settled_distance": 0.22732210159301758,
+        "extents": [
+          0.04310721158981323,
+          0.05534671992063522,
+          0.01921093463897705
+        ],
+        "max_xy_extent": 0.05534671992063522,
+        "min_xy_extent": 0.04310721158981323,
+        "height": 0.01921093463897705,
+        "aspect_ratio": 2.8810009956359863
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.6244237720276382e-16,
+          0.6336811184883118
+        ],
+        "settled_distance": 0.22631889581680298,
+        "extents": [
+          0.04867321252822876,
+          0.0627487301826477,
+          0.021192550659179688
+        ],
+        "max_xy_extent": 0.0627487301826477,
+        "min_xy_extent": 0.04867321252822876,
+        "height": 0.021192550659179688,
+        "aspect_ratio": 2.960886240005493
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.5186618985196452e-17,
+          0.6346835494041443
+        ],
+        "settled_distance": 0.22531646490097046,
+        "extents": [
+          0.05423933267593384,
+          0.07015073299407959,
+          0.0231742262840271
+        ],
+        "max_xy_extent": 0.07015073299407959,
+        "min_xy_extent": 0.05423933267593384,
+        "height": 0.0231742262840271,
+        "aspect_ratio": 3.027101516723633
+      }
+    ],
+    "recommended_extents": [
+      0.03197503089904785,
+      0.04054270312190056,
+      0.015247642993927002
+    ],
+    "recommended_max_xy_extent": 0.04054270312190056,
+    "recommended_height": 0.015247642993927002,
+    "recommended_aspect_ratio": 2.6589488983154297,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/021/021.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.4561340354098104e-21,
+          0.6386644244194031
+        ],
+        "settled_distance": 0.22133558988571167,
+        "extents": [
+          0.015036821365356445,
+          0.03207765519618988,
+          0.031689584255218506
+        ],
+        "max_xy_extent": 0.03207765519618988,
+        "min_xy_extent": 0.015036821365356445,
+        "height": 0.031689584255218506,
+        "aspect_ratio": 2.1332736015319824
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.952756874092802e-21,
+          0.6413803696632385
+        ],
+        "settled_distance": 0.21861964464187622,
+        "extents": [
+          0.016973257064819336,
+          0.0376657210290432,
+          0.03719443082809448
+        ],
+        "max_xy_extent": 0.0376657210290432,
+        "min_xy_extent": 0.016973257064819336,
+        "height": 0.03719443082809448,
+        "aspect_ratio": 2.2191216945648193
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6292498111724854,
+          0.0013564061373472214,
+          0.6433735489845276
+        ],
+        "settled_distance": 0.21663200855255127,
+        "extents": [
+          0.020666897296905518,
+          0.04625294357538223,
+          0.046435534954071045
+        ],
+        "max_xy_extent": 0.04625294357538223,
+        "min_xy_extent": 0.020666897296905518,
+        "height": 0.046435534954071045,
+        "aspect_ratio": 2.2468557357788086
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6285158395767212,
+          0.007713296916335821,
+          0.6422786712646484
+        ],
+        "settled_distance": 0.21786299347877502,
+        "extents": [
+          0.024638116359710693,
+          0.06390268355607986,
+          0.06448888778686523
+        ],
+        "max_xy_extent": 0.06390268355607986,
+        "min_xy_extent": 0.024638116359710693,
+        "height": 0.06448888778686523,
+        "aspect_ratio": 2.617443799972534
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6281617879867554,
+          0.008639274165034294,
+          0.6444151401519775
+        ],
+        "settled_distance": 0.21576572954654694,
+        "extents": [
+          0.02744084596633911,
+          0.07118315249681473,
+          0.07190752029418945
+        ],
+        "max_xy_extent": 0.07118315249681473,
+        "min_xy_extent": 0.02744084596633911,
+        "height": 0.07190752029418945,
+        "aspect_ratio": 2.620455741882324
+      }
+    ],
+    "recommended_extents": [
+      0.020666897296905518,
+      0.04625294357538223,
+      0.046435534954071045
+    ],
+    "recommended_max_xy_extent": 0.04625294357538223,
+    "recommended_height": 0.046435534954071045,
+    "recommended_aspect_ratio": 2.2468557357788086,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/022/022.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.0977392148205062e-16,
+          0.6415275931358337
+        ],
+        "settled_distance": 0.218472421169281,
+        "extents": [
+          0.048233747482299805,
+          0.0311762522906065,
+          0.031175851821899414
+        ],
+        "max_xy_extent": 0.048233747482299805,
+        "min_xy_extent": 0.0311762522906065,
+        "height": 0.031175851821899414,
+        "aspect_ratio": 1.5471508502960205
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.311178845759148e-17,
+          0.6448571085929871
+        ],
+        "settled_distance": 0.21514290571212769,
+        "extents": [
+          0.057283759117126465,
+          0.036571163684129715,
+          0.03657066822052002
+        ],
+        "max_xy_extent": 0.057283759117126465,
+        "min_xy_extent": 0.036571163684129715,
+        "height": 0.03657066822052002,
+        "aspect_ratio": 1.5663853883743286
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.986020681372621e-16,
+          0.6481865644454956
+        ],
+        "settled_distance": 0.21181344985961914,
+        "extents": [
+          0.06633388996124268,
+          0.04196607321500778,
+          0.0419655442237854
+        ],
+        "max_xy_extent": 0.06633388996124268,
+        "min_xy_extent": 0.04196607321500778,
+        "height": 0.0419655442237854,
+        "aspect_ratio": 1.5806751251220703
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.1755629314281653e-17,
+          0.6515167355537415
+        ],
+        "settled_distance": 0.2084832787513733,
+        "extents": [
+          0.07538396120071411,
+          0.04736098647117615,
+          0.047360360622406006
+        ],
+        "max_xy_extent": 0.07538396120071411,
+        "min_xy_extent": 0.04736098647117615,
+        "height": 0.047360360622406006,
+        "aspect_ratio": 1.591710090637207
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.9307184296419796e-16,
+          0.6548463106155396
+        ],
+        "settled_distance": 0.2051537036895752,
+        "extents": [
+          0.08443409204483032,
+          0.05275589972734451,
+          0.05275517702102661
+        ],
+        "max_xy_extent": 0.08443409204483032,
+        "min_xy_extent": 0.05275589972734451,
+        "height": 0.05275517702102661,
+        "aspect_ratio": 1.6004892587661743
+      }
+    ],
+    "recommended_extents": [
+      0.048233747482299805,
+      0.0311762522906065,
+      0.031175851821899414
+    ],
+    "recommended_max_xy_extent": 0.048233747482299805,
+    "recommended_height": 0.031175851821899414,
+    "recommended_aspect_ratio": 1.5471508502960205,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/023/023.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.4806122189994714e-16,
+          0.6304022669792175
+        ],
+        "settled_distance": 0.22959774732589722,
+        "extents": [
+          0.015244901180267334,
+          0.031985651701688766,
+          0.014995038509368896
+        ],
+        "max_xy_extent": 0.031985651701688766,
+        "min_xy_extent": 0.015244901180267334,
+        "height": 0.014995038509368896,
+        "aspect_ratio": 2.133082389831543
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.6653776826784856e-16,
+          0.6313477158546448
+        ],
+        "settled_distance": 0.22865229845046997,
+        "extents": [
+          0.017225980758666992,
+          0.03755400329828262,
+          0.016922593116760254
+        ],
+        "max_xy_extent": 0.03755400329828262,
+        "min_xy_extent": 0.017225980758666992,
+        "height": 0.016922593116760254,
+        "aspect_ratio": 2.219163656234741
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299779415130615,
+          5.23992239322979e-05,
+          0.6322596669197083
+        ],
+        "settled_distance": 0.2277403622865677,
+        "extents": [
+          0.019264280796051025,
+          0.043257154524326324,
+          0.019217848777770996
+        ],
+        "max_xy_extent": 0.043257154524326324,
+        "min_xy_extent": 0.019264280796051025,
+        "height": 0.019217848777770996,
+        "aspect_ratio": 2.2508842945098877
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300272345542908,
+          7.006868690950796e-05,
+          0.6331990957260132
+        ],
+        "settled_distance": 0.22680093348026276,
+        "extents": [
+          0.02125173807144165,
+          0.048876967281103134,
+          0.021281301975250244
+        ],
+        "max_xy_extent": 0.048876967281103134,
+        "min_xy_extent": 0.02125173807144165,
+        "height": 0.021281301975250244,
+        "aspect_ratio": 2.2999043464660645
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6300840973854065,
+          8.46706097945571e-05,
+          0.6341402530670166
+        ],
+        "settled_distance": 0.22585979104042053,
+        "extents": [
+          0.023360013961791992,
+          0.05449451506137848,
+          0.023454487323760986
+        ],
+        "max_xy_extent": 0.05449451506137848,
+        "min_xy_extent": 0.023360013961791992,
+        "height": 0.023454487323760986,
+        "aspect_ratio": 2.3328118324279785
+      }
+    ],
+    "recommended_extents": [
+      0.019264280796051025,
+      0.043257154524326324,
+      0.019217848777770996
+    ],
+    "recommended_max_xy_extent": 0.043257154524326324,
+    "recommended_height": 0.019217848777770996,
+    "recommended_aspect_ratio": 2.2508842945098877,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/024/024.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.199645616355773e-16,
+          0.6303365230560303
+        ],
+        "settled_distance": 0.22966349124908447,
+        "extents": [
+          0.03132343292236328,
+          0.03980603069067001,
+          0.014605522155761719
+        ],
+        "max_xy_extent": 0.03980603069067001,
+        "min_xy_extent": 0.03132343292236328,
+        "height": 0.014605522155761719,
+        "aspect_ratio": 2.725409746170044
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.100990234426272e-17,
+          0.6312679648399353
+        ],
+        "settled_distance": 0.22873204946517944,
+        "extents": [
+          0.03674989938735962,
+          0.04705017805099487,
+          0.016449570655822754
+        ],
+        "max_xy_extent": 0.04705017805099487,
+        "min_xy_extent": 0.03674989938735962,
+        "height": 0.016449570655822754,
+        "aspect_ratio": 2.8602678775787354
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.1542282728443566e-17,
+          0.6321993470191956
+        ],
+        "settled_distance": 0.2278006672859192,
+        "extents": [
+          0.04217630624771118,
+          0.05429432913661003,
+          0.01829361915588379
+        ],
+        "max_xy_extent": 0.05429432913661003,
+        "min_xy_extent": 0.04217630624771118,
+        "height": 0.01829361915588379,
+        "aspect_ratio": 2.967938184738159
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          4.758161259086729e-17,
+          0.6331307291984558
+        ],
+        "settled_distance": 0.22686928510665894,
+        "extents": [
+          0.047602832317352295,
+          0.06153848022222519,
+          0.020137667655944824
+        ],
+        "max_xy_extent": 0.06153848022222519,
+        "min_xy_extent": 0.047602832317352295,
+        "height": 0.020137667655944824,
+        "aspect_ratio": 3.055889129638672
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.253108648538015e-17,
+          0.6340621709823608
+        ],
+        "settled_distance": 0.2259378433227539,
+        "extents": [
+          0.05302929878234863,
+          0.06878262758255005,
+          0.02198171615600586
+        ],
+        "max_xy_extent": 0.06878262758255005,
+        "min_xy_extent": 0.05302929878234863,
+        "height": 0.02198171615600586,
+        "aspect_ratio": 3.1290836334228516
+      }
+    ],
+    "recommended_extents": [
+      0.03132343292236328,
+      0.03980603069067001,
+      0.014605522155761719
+    ],
+    "recommended_max_xy_extent": 0.03980603069067001,
+    "recommended_height": 0.014605522155761719,
+    "recommended_aspect_ratio": 2.725409746170044,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/025/025.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          4.8959516820368325e-17,
+          0.6441256999969482
+        ],
+        "settled_distance": 0.2158743143081665,
+        "extents": [
+          0.014561116695404053,
+          0.048102352768182755,
+          0.03968310356140137
+        ],
+        "max_xy_extent": 0.048102352768182755,
+        "min_xy_extent": 0.014561116695404053,
+        "height": 0.03968310356140137,
+        "aspect_ratio": 3.3034796714782715
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -2.664827856044093e-16,
+          0.648010790348053
+        ],
+        "settled_distance": 0.21198922395706177,
+        "extents": [
+          0.0163956880569458,
+          0.05712428689002991,
+          0.046900928020477295
+        ],
+        "max_xy_extent": 0.05712428689002991,
+        "min_xy_extent": 0.0163956880569458,
+        "height": 0.046900928020477295,
+        "aspect_ratio": 3.4841043949127197
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.789806466942479e-18,
+          0.6518968343734741
+        ],
+        "settled_distance": 0.20810317993164062,
+        "extents": [
+          0.018230199813842773,
+          0.06614621728658676,
+          0.05411875247955322
+        ],
+        "max_xy_extent": 0.06614621728658676,
+        "min_xy_extent": 0.018230199813842773,
+        "height": 0.05411875247955322,
+        "aspect_ratio": 3.6283867359161377
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          5.551488347018167e-17,
+          0.6557843685150146
+        ],
+        "settled_distance": 0.2042156457901001,
+        "extents": [
+          0.020064711570739746,
+          0.07516814768314362,
+          0.06133657693862915
+        ],
+        "max_xy_extent": 0.07516814768314362,
+        "min_xy_extent": 0.020064711570739746,
+        "height": 0.06133657693862915,
+        "aspect_ratio": 3.746285915374756
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -1.0582299585658704e-16,
+          0.6596705913543701
+        ],
+        "settled_distance": 0.20032942295074463,
+        "extents": [
+          0.02189922332763672,
+          0.08419008553028107,
+          0.06855440139770508
+        ],
+        "max_xy_extent": 0.08419008553028107,
+        "min_xy_extent": 0.02189922332763672,
+        "height": 0.06855440139770508,
+        "aspect_ratio": 3.8444325923919678
+      }
+    ],
+    "recommended_extents": [
+      0.014561116695404053,
+      0.048102352768182755,
+      0.03968310356140137
+    ],
+    "recommended_max_xy_extent": 0.048102352768182755,
+    "recommended_height": 0.03968310356140137,
+    "recommended_aspect_ratio": 3.3034796714782715,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/026/026.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.3776981622668334e-16,
+          0.6378908753395081
+        ],
+        "settled_distance": 0.2221091389656067,
+        "extents": [
+          0.015157043933868408,
+          0.04040444269776344,
+          0.03203225135803223
+        ],
+        "max_xy_extent": 0.04040444269776344,
+        "min_xy_extent": 0.015157043933868408,
+        "height": 0.03203225135803223,
+        "aspect_ratio": 2.6657204627990723
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          9.037543630130429e-11,
+          0.6404410600662231
+        ],
+        "settled_distance": 0.2195589542388916,
+        "extents": [
+          0.01711934804916382,
+          0.04777682572603226,
+          0.03761059045791626
+        ],
+        "max_xy_extent": 0.04777682572603226,
+        "min_xy_extent": 0.01711934804916382,
+        "height": 0.03761059045791626,
+        "aspect_ratio": 2.79080867767334
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.628865659236908,
+          0.0020627148915082216,
+          0.6416511535644531
+        ],
+        "settled_distance": 0.21836155652999878,
+        "extents": [
+          0.022078275680541992,
+          0.05996374785900116,
+          0.05058920383453369
+        ],
+        "max_xy_extent": 0.05996374785900116,
+        "min_xy_extent": 0.022078275680541992,
+        "height": 0.05058920383453369,
+        "aspect_ratio": 2.715961456298828
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6279891729354858,
+          0.00515489187091589,
+          0.6427216529846191
+        ],
+        "settled_distance": 0.21734879910945892,
+        "extents": [
+          0.02665996551513672,
+          0.07361610978841782,
+          0.06558948755264282
+        ],
+        "max_xy_extent": 0.07361610978841782,
+        "min_xy_extent": 0.02665996551513672,
+        "height": 0.06558948755264282,
+        "aspect_ratio": 2.7612979412078857
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6273632645606995,
+          0.005748752038925886,
+          0.644904375076294
+        ],
+        "settled_distance": 0.21518860757350922,
+        "extents": [
+          0.030708670616149902,
+          0.0822451040148735,
+          0.07345002889633179
+        ],
+        "max_xy_extent": 0.0822451040148735,
+        "min_xy_extent": 0.030708670616149902,
+        "height": 0.07345002889633179,
+        "aspect_ratio": 2.678237199783325
+      }
+    ],
+    "recommended_extents": [
+      0.015157043933868408,
+      0.04040444269776344,
+      0.03203225135803223
+    ],
+    "recommended_max_xy_extent": 0.04040444269776344,
+    "recommended_height": 0.03203225135803223,
+    "recommended_aspect_ratio": 2.6657204627990723,
+    "size_bin": "small"
+  },
+  {
+    "relative_path": "random_urdfs/027/027.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4
+    ],
+    "recommended_scale": 0.28,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.629999041557312,
+          1.1846425877592992e-05,
+          0.630598783493042
+        ],
+        "settled_distance": 0.22940123081207275,
+        "extents": [
+          0.031911253929138184,
+          0.04883014038205147,
+          0.015455782413482666
+        ],
+        "max_xy_extent": 0.04883014038205147,
+        "min_xy_extent": 0.031911253929138184,
+        "height": 0.015455782413482666,
+        "aspect_ratio": 3.159344434738159
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.629999041557312,
+          3.457995626376942e-05,
+          0.6315598487854004
+        ],
+        "settled_distance": 0.22844016551971436,
+        "extents": [
+          0.03746277093887329,
+          0.05805913358926773,
+          0.017659306526184082
+        ],
+        "max_xy_extent": 0.05805913358926773,
+        "min_xy_extent": 0.03746277093887329,
+        "height": 0.017659306526184082,
+        "aspect_ratio": 3.2877357006073
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299915909767151,
+          4.7021570935612544e-05,
+          0.6325250864028931
+        ],
+        "settled_distance": 0.22747492790222168,
+        "extents": [
+          0.04303455352783203,
+          0.0672585666179657,
+          0.019817352294921875
+        ],
+        "max_xy_extent": 0.0672585666179657,
+        "min_xy_extent": 0.04303455352783203,
+        "height": 0.019817352294921875,
+        "aspect_ratio": 3.393923044204712
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299867033958435,
+          5.2193256124155596e-05,
+          0.6335057616233826
+        ],
+        "settled_distance": 0.22649426758289337,
+        "extents": [
+          0.048598647117614746,
+          0.07644012570381165,
+          0.02189856767654419
+        ],
+        "max_xy_extent": 0.07644012570381165,
+        "min_xy_extent": 0.048598647117614746,
+        "height": 0.02189856767654419,
+        "aspect_ratio": 3.490644931793213
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299648880958557,
+          5.722672722185962e-05,
+          0.6344896554946899
+        ],
+        "settled_distance": 0.2255103588104248,
+        "extents": [
+          0.05419886112213135,
+          0.08561736345291138,
+          0.024050354957580566
+        ],
+        "max_xy_extent": 0.08561736345291138,
+        "min_xy_extent": 0.05419886112213135,
+        "height": 0.024050354957580566,
+        "aspect_ratio": 3.5599210262298584
+      }
+    ],
+    "recommended_extents": [
+      0.031911253929138184,
+      0.04883014038205147,
+      0.015455782413482666
+    ],
+    "recommended_max_xy_extent": 0.04883014038205147,
+    "recommended_height": 0.015455782413482666,
+    "recommended_aspect_ratio": 3.159344434738159,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/028/028.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.34,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          1.2736740460145328e-16,
+          0.6390116214752197
+        ],
+        "settled_distance": 0.22098839282989502,
+        "extents": [
+          0.040154874324798584,
+          0.03213891386985779,
+          0.0321388840675354
+        ],
+        "max_xy_extent": 0.040154874324798584,
+        "min_xy_extent": 0.03213891386985779,
+        "height": 0.0321388840675354,
+        "aspect_ratio": 1.2494171857833862
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -5.570294463680682e-17,
+          0.6418019533157349
+        ],
+        "settled_distance": 0.21819806098937988,
+        "extents": [
+          0.0474737286567688,
+          0.037740111351013184,
+          0.037740111351013184
+        ],
+        "max_xy_extent": 0.0474737286567688,
+        "min_xy_extent": 0.037740111351013184,
+        "height": 0.037740111351013184,
+        "aspect_ratio": 1.2579116821289062
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          8.577296498891421e-17,
+          0.6445921659469604
+        ],
+        "settled_distance": 0.2154078483581543,
+        "extents": [
+          0.05479264259338379,
+          0.04334130510687828,
+          0.04334127902984619
+        ],
+        "max_xy_extent": 0.05479264259338379,
+        "min_xy_extent": 0.04334130510687828,
+        "height": 0.04334127902984619,
+        "aspect_ratio": 1.2642138004302979
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          6.057317232528224e-17,
+          0.6473826169967651
+        ],
+        "settled_distance": 0.2126173973083496,
+        "extents": [
+          0.06211155652999878,
+          0.04894249886274338,
+          0.048942506313323975
+        ],
+        "max_xy_extent": 0.06211155652999878,
+        "min_xy_extent": 0.04894249886274338,
+        "height": 0.048942506313323975,
+        "aspect_ratio": 1.2690720558166504
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.0237718317284955e-16,
+          0.6501728296279907
+        ],
+        "settled_distance": 0.20982718467712402,
+        "extents": [
+          0.069430410861969,
+          0.05454369634389877,
+          0.05454373359680176
+        ],
+        "max_xy_extent": 0.069430410861969,
+        "min_xy_extent": 0.05454369634389877,
+        "height": 0.05454373359680176,
+        "aspect_ratio": 1.2729319334030151
+      }
+    ],
+    "recommended_extents": [
+      0.0474737286567688,
+      0.037740111351013184,
+      0.037740111351013184
+    ],
+    "recommended_max_xy_extent": 0.0474737286567688,
+    "recommended_height": 0.037740111351013184,
+    "recommended_aspect_ratio": 1.2579116821289062,
+    "size_bin": "medium"
+  },
+  {
+    "relative_path": "random_urdfs/029/029.urdf",
+    "valid": true,
+    "graspable_scales": [
+      0.28,
+      0.34,
+      0.4,
+      0.46,
+      0.52
+    ],
+    "recommended_scale": 0.4,
+    "scale_evaluations": [
+      {
+        "scale": 0.28,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          2.990445320418775e-16,
+          0.6388842463493347
+        ],
+        "settled_distance": 0.22111576795578003,
+        "extents": [
+          0.03197389841079712,
+          0.03197191655635834,
+          0.031973838806152344
+        ],
+        "max_xy_extent": 0.03197389841079712,
+        "min_xy_extent": 0.03197191655635834,
+        "height": 0.031973838806152344,
+        "aspect_ratio": 1.0000619888305664
+      },
+      {
+        "scale": 0.34,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          -3.945590641384858e-16,
+          0.6416473388671875
+        ],
+        "settled_distance": 0.21835267543792725,
+        "extents": [
+          0.037539660930633545,
+          0.03753732889890671,
+          0.037539660930633545
+        ],
+        "max_xy_extent": 0.037539660930633545,
+        "min_xy_extent": 0.03753732889890671,
+        "height": 0.037539660930633545,
+        "aspect_ratio": 1.000062108039856
+      },
+      {
+        "scale": 0.4,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6299999952316284,
+          3.579074852896492e-18,
+          0.644410252571106
+        ],
+        "settled_distance": 0.2155897617340088,
+        "extents": [
+          0.04310554265975952,
+          0.04310274124145508,
+          0.04310554265975952
+        ],
+        "max_xy_extent": 0.04310554265975952,
+        "min_xy_extent": 0.04310274124145508,
+        "height": 0.04310554265975952,
+        "aspect_ratio": 1.0000649690628052
+      },
+      {
+        "scale": 0.46,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6315043568611145,
+          -0.0075865015387535095,
+          0.6422862410545349
+        ],
+        "settled_distance": 0.21785110235214233,
+        "extents": [
+          0.05286562442779541,
+          0.06381478160619736,
+          0.06665194034576416
+        ],
+        "max_xy_extent": 0.06381478160619736,
+        "min_xy_extent": 0.05286562442779541,
+        "height": 0.06665194034576416,
+        "aspect_ratio": 1.2607803344726562
+      },
+      {
+        "scale": 0.52,
+        "valid_simulation": true,
+        "supported": true,
+        "final_position": [
+          0.6313385963439941,
+          -0.008596226572990417,
+          0.644397497177124
+        ],
+        "settled_distance": 0.21577796339988708,
+        "extents": [
+          0.05791527032852173,
+          0.07113616168498993,
+          0.07360035181045532
+        ],
+        "max_xy_extent": 0.07113616168498993,
+        "min_xy_extent": 0.05791527032852173,
+        "height": 0.07360035181045532,
+        "aspect_ratio": 1.270828127861023
+      }
+    ],
+    "recommended_extents": [
+      0.04310554265975952,
+      0.04310274124145508,
+      0.04310554265975952
+    ],
+    "recommended_max_xy_extent": 0.04310554265975952,
+    "recommended_height": 0.04310554265975952,
+    "recommended_aspect_ratio": 1.0000649690628052,
+    "size_bin": "small"
+  }
+]

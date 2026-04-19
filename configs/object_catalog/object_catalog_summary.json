@@ -1,0 +1,24 @@
+{
+  "total_objects": 1000,
+  "valid_objects": 987,
+  "invalid_objects": 13,
+  "valid_fraction": 0.987,
+  "size_histogram": {
+    "medium": 480,
+    "small": 499,
+    "tiny": 3,
+    "large": 5
+  },
+  "scales_tested": [
+    0.28,
+    0.34,
+    0.4,
+    0.46,
+    0.52
+  ],
+  "filter_criteria": {
+    "min_grasp_extent": 0.018,
+    "max_grasp_extent": 0.075,
+    "max_aspect_ratio": 5.0
+  }
+}
