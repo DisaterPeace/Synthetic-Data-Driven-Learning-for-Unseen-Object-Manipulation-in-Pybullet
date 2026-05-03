@@ -97,6 +97,19 @@ The dataset generator writes:
 - `dataset_manifest.json` at the dataset root
 - `audit/dataset_audit.json` and `audit/dataset_audit.md` after running the dataset audit
 
+## Current Dataset Release Candidate
+
+The current validated dataset is `paper_release_v2`. It is not tracked in git because it is a large generated research artifact.
+
+Summary:
+
+- train: 600 episodes, 134,100 grasp-candidate samples
+- test: 180 episodes, 40,410 grasp-candidate samples
+- train/test asset overlap: 0
+- release validation: PASS
+
+See [DATASET_RELEASE.md](DATASET_RELEASE.md) for dataset metrics, validation outputs, baseline results, and the recommended public hosting plan.
+
 ## PyBullet MCP
 
 Register the local MCP server with:
