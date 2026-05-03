@@ -110,6 +110,12 @@ Summary:
 
 See [DATASET_RELEASE.md](DATASET_RELEASE.md) for dataset metrics, validation outputs, baseline results, and the recommended public hosting plan.
 
+Public dataset release:
+
+```text
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+```
+
 ## PyBullet MCP
 
 Register the local MCP server with:

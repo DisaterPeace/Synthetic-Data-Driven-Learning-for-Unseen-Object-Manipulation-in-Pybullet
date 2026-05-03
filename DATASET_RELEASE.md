@@ -10,6 +10,26 @@ The dataset is intentionally not tracked in git. The repository tracks code, con
 - **Zenodo** is recommended for thesis/paper archival because it can provide a DOI.
 - **GitHub Releases** may be used for smaller derived artifacts or compressed shards, but raw dataset files should not be committed to the git repository.
 
+## Public Download
+
+The compressed `paper_release_v2` dataset is published as a GitHub Release asset:
+
+```text
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+```
+
+Direct archive download:
+
+```text
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/download/paper_release_v2/paper_release_v2.tar.gz
+```
+
+Archive SHA-256:
+
+```text
+0d7c04200b799d5f7ba6cf381db229b7f4e7c7e7ada706ed171221aff6609fca
+```
+
 ## Local Dataset Path
 
 Current verified local copy:
@@ -99,4 +119,3 @@ Before publishing:
 3. Preserve `checksums.sha256.jsonl` with the dataset.
 4. Add the final public dataset URL and DOI, if available, to this file and the README.
 5. Create a GitHub release that links to the dataset and includes the validation report.
-
