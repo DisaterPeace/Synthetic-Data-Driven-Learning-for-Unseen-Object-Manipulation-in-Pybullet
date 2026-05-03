@@ -97,9 +97,9 @@ The dataset generator writes:
 - `dataset_manifest.json` at the dataset root
 - `audit/dataset_audit.json` and `audit/dataset_audit.md` after running the dataset audit
 
-## Current Dataset Release Candidate
+## Public Dataset
 
-The current validated dataset is `paper_release_v2`. It is not tracked in git because it is a large generated research artifact.
+The current validated public dataset is **Synthetic RGB-D Unseen Object Grasping Dataset (PyBullet) v1**. It is not tracked in git because it is a large generated research artifact.
 
 Summary:
 
@@ -113,7 +113,7 @@ See [DATASET_RELEASE.md](DATASET_RELEASE.md) for dataset metrics, validation out
 Public dataset release:
 
 ```text
-https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/synthetic-rgbd-unseen-object-grasping-pybullet-v1
 ```
 
 ## PyBullet MCP
