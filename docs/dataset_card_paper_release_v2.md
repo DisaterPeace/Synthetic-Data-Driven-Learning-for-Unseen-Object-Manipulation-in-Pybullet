@@ -4,6 +4,18 @@
 
 `paper_release_v2` is a synthetic RGB-D grasp-candidate dataset generated in PyBullet for unseen-object manipulation research.
 
+Public download:
+
+```text
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+```
+
+Archive SHA-256:
+
+```text
+0d7c04200b799d5f7ba6cf381db229b7f4e7c7e7ada706ed171221aff6609fca
+```
+
 The learning task is:
 
 ```text
@@ -106,4 +118,3 @@ RGB-D CNN medium sanity run on 10,000 unseen-object candidate samples:
 ## Citation
 
 Citation information should be updated after the dataset receives a public URL or DOI.
-
