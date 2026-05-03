@@ -1,6 +1,6 @@
-# Dataset Release Notes: `paper_release_v2`
+# Dataset Release Notes: Synthetic RGB-D Unseen Object Grasping Dataset (PyBullet) v1
 
-This project uses a generated synthetic RGB-D grasping dataset for unseen-object manipulation experiments in PyBullet.
+This project uses **Synthetic RGB-D Unseen Object Grasping Dataset (PyBullet) v1**, a generated synthetic RGB-D grasping dataset for unseen-object manipulation experiments in PyBullet.
 
 The dataset is intentionally not tracked in git. The repository tracks code, configuration, validation scripts, and documentation. The dataset should be published through a dataset host such as Hugging Face Datasets or Zenodo, then linked from this repository and any GitHub release.
 
@@ -12,16 +12,16 @@ The dataset is intentionally not tracked in git. The repository tracks code, con
 
 ## Public Download
 
-The compressed `paper_release_v2` dataset is published as a GitHub Release asset:
+The compressed dataset is published as a GitHub Release asset:
 
 ```text
-https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/synthetic-rgbd-unseen-object-grasping-pybullet-v1
 ```
 
 Direct archive download:
 
 ```text
-https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/download/paper_release_v2/paper_release_v2.tar.gz
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/download/synthetic-rgbd-unseen-object-grasping-pybullet-v1/synthetic-rgbd-unseen-object-grasping-pybullet-v1.tar.gz
 ```
 
 Archive SHA-256:

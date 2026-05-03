@@ -1,13 +1,13 @@
-# Dataset Card: Synthetic RGB-D Grasping `paper_release_v2`
+# Dataset Card: Synthetic RGB-D Unseen Object Grasping Dataset (PyBullet) v1
 
 ## Dataset Summary
 
-`paper_release_v2` is a synthetic RGB-D grasp-candidate dataset generated in PyBullet for unseen-object manipulation research.
+**Synthetic RGB-D Unseen Object Grasping Dataset (PyBullet) v1** is a synthetic RGB-D grasp-candidate dataset generated in PyBullet for unseen-object manipulation research.
 
 Public download:
 
 ```text
-https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/paper_release_v2
+https://github.com/DisaterPeace/Synthetic-Data-Driven-Learning-for-Unseen-Object-Manipulation-in-Pybullet/releases/tag/synthetic-rgbd-unseen-object-grasping-pybullet-v1
 ```
 
 Archive SHA-256:
